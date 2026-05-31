@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1779766227 source:d:\oop\b6_lab5\main.cpp
+	"KHLoaiA.h"
+	"KHLoaiB.h"
+	"KHLoaiC.h"
+
+1779766227 d:\oop\b6_lab5\include\khloaia.h
+	"KhachHang.h"
+
+1779766105 d:\oop\b6_lab5\include\khachhang.h
+	<bits/stdc++.h>
+
+1779766227 d:\oop\b6_lab5\include\khloaib.h
+	"KhachHang.h"
+
+1779766227 d:\oop\b6_lab5\include\khloaic.h
+	"KhachHang.h"
+
+1779766227 source:d:\oop\b6_lab5\src\khachhang.cpp
+	"KhachHang.h"
+
+1779766227 source:d:\oop\b6_lab5\src\khloaia.cpp
+	"KHLoaiA.h"
+	<iostream>
+
+1779765176 source:d:\oop\b6_lab5\src\khloaic.cpp
+	"KHLoaiC.h"
+
