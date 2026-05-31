@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1779705962 source:d:\oop\b3_lab5\src\sinhvien.cpp
+	"SinhVien.h"
+
+1779705960 d:\oop\b3_lab5\include\sinhvien.h
+	<bits/stdc++.h>
+
+1779705994 source:d:\oop\b3_lab5\src\sinhvienhecaodang.cpp
+	"SinhVienHeCaoDang.h"
+
+1779706033 d:\oop\b3_lab5\include\sinhvienhecaodang.h
+	"SinhVien.h"
+
+1779706021 source:d:\oop\b3_lab5\src\sinhvienhedaihoc.cpp
+	"SinhVienHeDaiHoc.h"
+
+1779706033 d:\oop\b3_lab5\include\sinhvienhedaihoc.h
+	"SinhVien.h"
+
+1779706549 source:d:\oop\b3_lab5\main.cpp
+	"SinhVienHeCaoDang.h"
+	"SinhVienHeDaiHoc.h"
+
