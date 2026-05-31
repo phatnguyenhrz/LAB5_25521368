@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1779713952 source:d:\oop\b4_lab5\src\cnhanvien.cpp
+	"CNhanVien.h"
+
+1779713905 d:\oop\b4_lab5\include\cnhanvien.h
+	<bits/stdc++.h>
+
+1779714380 source:d:\oop\b4_lab5\src\kiemchungvien.cpp
+	"KiemChungVien.h"
+
+1779760914 d:\oop\b4_lab5\include\kiemchungvien.h
+	"CNhanVien.h"
+
+1779713983 source:d:\oop\b4_lab5\src\laptrinhvien.cpp
+	"LapTrinhVien.h"
+
+1779760914 d:\oop\b4_lab5\include\laptrinhvien.h
+	"CNhanVien.h"
+
+1779760995 source:d:\oop\b4_lab5\main.cpp
+	"LapTrinhVien.h"
+	"KiemChungVien.h"
+
