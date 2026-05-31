@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1779677144 source:d:\oop\b1_lab5\src\nhanvien.cpp
+	"NhanVien.h"
+	<bits/stdc++.h>
+
+1779677047 d:\oop\b1_lab5\include\nhanvien.h
+	<bits/stdc++.h>
+
+1779674587 source:d:\oop\b1_lab5\src\nhanviensx.cpp
+	"NhanVienSX.h"
+	"NhanVien.h"
+	<iostream>
+
+1779677047 d:\oop\b1_lab5\include\nhanviensx.h
+	"NhanVien.h"
+
+1779674587 source:d:\oop\b1_lab5\src\nhanvienvp.cpp
+	"NhanVienVP.h"
+	<iostream>
+
+1779674355 d:\oop\b1_lab5\include\nhanvienvp.h
+	"NhanVien.h"
+
+1779679821 source:d:\oop\b1_lab5\main.cpp
+	"NhanVienSX.h"
+	"NhanVienVP.h"
+
