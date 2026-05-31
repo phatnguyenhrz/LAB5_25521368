@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1779679003 source:d:\oop\b2_lab5\src\giaodich.cpp
+	"GiaoDich.h"
+	<iostream>
+
+1779680916 d:\oop\b2_lab5\include\giaodich.h
+	<bits/stdc++.h>
+
+1779700324 source:d:\oop\b2_lab5\src\giaodichnhapho.cpp
+	"GiaoDichNhaPho.h"
+	<iostream>
+
+1779679095 d:\oop\b2_lab5\include\giaodichnhapho.h
+	"GiaoDich.h"
+
+1779680983 source:d:\oop\b2_lab5\src\giaodichdat.cpp
+	"GiaoDichDat.h"
+	<iostream>
+
+1779678975 d:\oop\b2_lab5\include\giaodichdat.h
+	"GiaoDich.h"
+
+1780241866 source:d:\oop\b2_lab5\main.cpp
+	"GiaoDichDat.h"
+	"GiaoDichCanHoChungCu.h"
+	"GiaoDichNhaPho.h"
+
+1779680970 d:\oop\b2_lab5\include\giaodichcanhochungcu.h
+	"GiaoDich.h"
+
+1779681014 source:d:\oop\b2_lab5\src\giaodichcanhochungcu.cpp
+	"GiaoDichCanHoChungCu.h"
+	<iostream>
+
